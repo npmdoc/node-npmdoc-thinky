@@ -1,0 +1,30 @@
+<svg height="430" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="430" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-07 13:41:00 +0000   224070 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-07 13:41:00 +0000     1287 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-07 13:41:00 +0000     1092 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-07 13:41:00 +0000     3391 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-07 13:41:00 +0000      182 bytes  config.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-07 13:41:00 +0000    65405 bytes  lib/document.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-07 13:41:00 +0000     2770 bytes  lib/errors.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-07 13:41:00 +0000     4292 bytes  lib/feed.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-07 13:41:00 +0000    35529 bytes  lib/model.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-07 13:41:00 +0000    30602 bytes  lib/query.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-07 13:41:00 +0000    18085 bytes  lib/schema.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-07 13:41:00 +0000     5063 bytes  lib/thinky.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-07 13:41:00 +0000     1079 bytes  lib/type/any.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-07 13:41:00 +0000     4519 bytes  lib/type/array.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-07 13:41:00 +0000     2594 bytes  lib/type/boolean.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-07 13:41:00 +0000     3039 bytes  lib/type/buffer.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-07 13:41:00 +0000     4327 bytes  lib/type/date.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-07 13:41:00 +0000     4562 bytes  lib/type/index.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-07 13:41:00 +0000     4044 bytes  lib/type/number.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-07 13:41:00 +0000     4815 bytes  lib/type/object.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-07 13:41:00 +0000     4775 bytes  lib/type/point.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-07 13:41:00 +0000    11465 bytes  lib/type/string.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-07 13:41:00 +0000      745 bytes  lib/type/virtual.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-07 13:41:00 +0000     8110 bytes  lib/util.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-07 13:41:00 +0000     2298 bytes  package.json</tspan>
+</text>
+</svg>
